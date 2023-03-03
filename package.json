@@ -1,0 +1,21 @@
+{
+  "name": "playwrightamazondealoftheday",
+  "version": "1.0.0",
+  "description": "Exercise:\r 1. Navigate to https://www.amazon.com/\r 2. Handle the cookie consent. (If present)\r 3. Click on \"Today’s Deals\"\r 4. List the product combinations based on below filters.  Create data-driven tests:",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadyeglenn/PlaywrightAmazonDealOfTheDay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadyeglenn/PlaywrightAmazonDealOfTheDay/issues"
+  },
+  "homepage": "https://github.com/shadyeglenn/PlaywrightAmazonDealOfTheDay#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.31.1"
+  }
+}
